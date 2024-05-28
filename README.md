@@ -20,7 +20,7 @@ To run the Todo List application, follow these steps:
 
 1. **Download the Files:** Download the project files from the GitHub repository.
 
-2. **Open the HTML File:** Open the `index.html` file in your web browser.
+2. **Open the HTML File:** Open the `todo.html` file in your web browser.
 
 3. **Use the Application:** Use the application to add, view, mark, and remove tasks as needed.
 
