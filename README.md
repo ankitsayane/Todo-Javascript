@@ -1,36 +1,36 @@
 # Todo List Project
 
-This project is a simple Todo List application built using HTML, CSS, and JavaScript. It allows users to add tasks with names, descriptions, and due dates, mark tasks as completed, and remove tasks from the list.
+## Description
 
-## Table of Contents
+The Todo List project is a web application that helps users manage their tasks effectively. It allows users to add tasks with names, descriptions, and due dates, mark tasks as completed, and remove tasks from the list. The application provides a simple and intuitive user interface that is easy to use.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+## Process
 
-## Installation
+1. **Adding Tasks:** Users can add new tasks by entering a name, description, and due date in the input fields provided. Clicking the "Submit" button adds the task to the list.
 
-To run the application, simply download the files and open the `index.html` file in your web browser.
+2. **Marking Tasks as Completed:** Users can mark a task as completed by clicking the "Completed" button next to the task. The status of the task will be updated to "Completed" and displayed in green.
 
-## Usage
+3. **Removing Tasks:** Users can remove a task from the list by clicking the "Remove" button next to the task. The task will be permanently deleted from the list.
 
-1. Enter the name, description, and date for the task you want to add.
-2. Click the "Submit" button to add the task to the list.
-3. To mark a task as completed, click the "Completed" button next to the task.
-4. To remove a task from the list, click the "Remove" button next to the task.
+4. **Viewing Tasks:** The application displays the list of tasks with their names, descriptions, due dates, and status (Pending or Completed). Tasks are displayed in a table format for easy viewing.
 
-## Features
+## How to Run
 
-- Add tasks with names, descriptions, and due dates.
-- Mark tasks as completed.
-- Remove tasks from the list.
+To run the Todo List application, follow these steps:
 
-## Contributing
+1. **Download the Files:** Download the project files from the GitHub repository.
 
-Contributions are welcome! If you have any ideas or suggestions for improvement, please [open an issue](https://github.com/yourusername/yourrepository/issues) or [submit a pull request](https://github.com/yourusername/yourrepository/pulls).
+2. **Open the HTML File:** Open the `index.html` file in your web browser.
 
-## License
+3. **Use the Application:** Use the application to add, view, mark, and remove tasks as needed.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+4. **Interact with the UI:** Interact with the user interface to perform actions such as adding tasks, marking tasks as completed, and removing tasks from the list.
+
+5. **Enjoy Task Management:** Enjoy using the Todo List application to manage your tasks efficiently and stay organized.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
